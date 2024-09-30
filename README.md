@@ -38,10 +38,7 @@ B) Update your PATH
 
 4. What command is used to run a newly created Flutter app?
 
-A) flutter start
-B) flutter build
-C) flutter run
-D) flutter init
+
 
 C) flutter run
 
@@ -50,10 +47,7 @@ C) flutter run
 
 What is the first step to install Python on a Windows system?
 
-A) Run the installer without any customization
-B) Download Python from the official website
-C) Open the terminal and type sudo apt install python
-D) Install pip manually
+
 
 B) Download Python from the official website
 
@@ -125,10 +119,6 @@ A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 What is the purpose of setting a root password during MySQL installation?
 
-A) To create a user account for your MySQL server
-B) To secure your MySQL installation with a super-secret password
-C) To activate MySQL Workbench
-D) To allow multiple users to access MySQL
 
 B) To secure your MySQL installation with a super-secret password
 
