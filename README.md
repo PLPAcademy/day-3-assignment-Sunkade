@@ -102,11 +102,6 @@ D) Custom
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
-B) Only MySQL Server
-C) MySQL Server and MySQL Router
-D) MySQL Workbench and MySQL Utilities
-
-A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 What is the purpose of setting a root password during MySQL installation?
 
