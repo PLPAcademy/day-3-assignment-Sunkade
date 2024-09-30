@@ -2,112 +2,42 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16160987&assignment_repo_type=AssignmentRepo)
 # Env_Set
 
-# Environment Setup Assignment
-
-#Dart & Flutter
-
-1. What is the first step for installing Dart on a Windows machine?
-
-B) Download the Dart SDK
-
-
-2. Which command verifies the Dart installation on macOS?
-
-
-D) dart --version
-
-
-3. What is the next step after downloading and extracting the Flutter SDK on Linux?
-
-B) Update your PATH
-
-
-4. What command is used to run a newly created Flutter app?
-
-
-
-C) flutter run
-
-
-#Python Installation
-
+What is the first step for installing Dart on a Windows machine?
+Your answer: B) Download the Dart SDK
+Which command verifies the Dart installation on macOS?
+Your answer: D) dart --version
+What is the next step after downloading and extracting the Flutter SDK on Linux?
+Your answer: B) Update your PATH
+What command is used to run a newly created Flutter app?
+Your answer: C) flutter run
+Python Installation:
 What is the first step to install Python on a Windows system?
-
-
-
-B) Download Python from the official website
-
+Your answer: B) Download Python from the official website
 Which option should you ensure is checked during Python installation on Windows?
-
-A) Install with default settings
-B) Install to a custom directory
-C) Add Python to PATH
-D) Install all available features
-
-C) Add Python to PATH
-
-How do you verify Python installation on any system?
-
-A) By running python --version
-B) By restarting your computer
-C) By opening the Python installer again
-D) By checking the Programs and Features in Control Panel
-
-A) By running python --version
-
-What command is used to install pip on macOS and Linux?
-
-A) sudo install pip
-B) pip install python
-C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-D) python --install pip
-
-C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-
-What is the purpose of a virtual environment in Python?
-
-A) To keep your projects organized in one folder
-B) To install Python in a different directory
-C) To separate project dependencies and avoid conflicts
-D) To enhance Python performance on your system
-
-C) To separate project dependencies and avoid conflicts
-
-
-#MySQL Installation
-
+You didn’t provide this answer in the snippet. Ensure to answer this correctly, based on the autograder expectations.
+MySQL Installation:
 What is the first step to install MySQL on Windows?
-
-A) Download MySQL Shell
-B) Download MySQL Installer from the official website
-C) Install MySQL Workbench
-D) Set up a root password
-
-B) Download MySQL Installer from the official website
-
+Your answer: B) Download MySQL Installer from the official website
 What setup type should you choose for a custom MySQL installation?
-
-A) Developer Default
-B) Server Only
-C) Full
-D) Custom
-
-D) Custom
-
+Your answer: D) Custom
 Which products should you select during the MySQL installation?
-
-A) MySQL Server, MySQL Workbench, and MySQL Shell
-
+Your answer: A) MySQL Server, MySQL Workbench, and MySQL Shell
 What is the purpose of setting a root password during MySQL installation?
-
-
-B) To secure your MySQL installation with a super-secret password
-
+Your answer: B) To secure your MySQL installation with a super-secret password
 How do you begin managing your database after installing MySQL?
+Your answer: B) Launch MySQL Workbench and connect to your MySQL Server
+General Tips for Your Answers:
+Match Exact Format: Ensure that each answer matches the expected format in the autograder, especially if it's using a comparison method like exact. For example, include the space after C) if that's how it's expected.
+Correct Content: Verify that your answers are correct by reviewing any reference materials or notes from your course.
+By ensuring these points, your answers should work well with the autograder!
 
-A) Start by installing additional plugins
-B) Launch MySQL Workbench and connect to your MySQL Server
-C) Run mysqladmin start in the terminal
-D) Restart your computer to activate MySQL
 
-B) Launch MySQL Workbench and connect to your MySQL Server
+
+
+
+
+
+
+
+
+ChatGPT can make
