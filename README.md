@@ -19,11 +19,6 @@ D) dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
-A) Install Homebrew
-B) Update your PATH
-C) Run Flutter Doctor
-D) Create a new Flutter project
-
 B) Update your PATH
 
 
